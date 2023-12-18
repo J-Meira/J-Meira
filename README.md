@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning Composition Patterns and Unit Testing for React<br><br>To know more about me, please check my<a href="https://www.linkedin.com/in/jonathan-meira-812a082b" target="_blank"> Linkedin Profile</a>.</p>
+<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning Unit Testing for React and C# .NET Core 8<br><br>To know more about me, please check my<a href="https://www.linkedin.com/in/jonathan-meira-812a082b" target="_blank"> Linkedin Profile</a>.</p>
 
 ###
 
