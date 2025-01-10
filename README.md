@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
-</div>xsx
+</div>
 
 <div align="center" style="width:30%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Meira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
