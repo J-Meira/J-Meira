@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Jonathan Meira and I'm a Full-Stack Designer from Blumenau - Brazil</p>
+<p align="left">My name is Jonathan Meira. I'm a Full-Stack Developer and Product Designer from Blumenau - Brazil</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning Unit Testing for React and C# .NET Core 8<br><br>To know more about me, please check my<a href="https://www.linkedin.com/in/jonathan-meira-812a082b" target="_blank"> Linkedin Profile</a>.</p>
+<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning Unit Testing for React and C# .NET Core<br><br>To know more about me, please check my<a href="https://www.linkedin.com/in/jonathan-meira-812a082b" target="_blank"> Linkedin Profile</a>.</p>
 
 ###
 
@@ -70,7 +70,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Meira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=J-Meira&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=J-Meira&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CSat"  height="150" alt="GitHub Streak" />
 </div>
 
 ###
