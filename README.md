@@ -26,8 +26,9 @@
 
 ###
 
-<div style="display: flex;">
-<div align="left" style="width: 70%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Meira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" width="250" align="right" alt="languages graph"  />
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -73,11 +74,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
-</div>
-
-<div align="center" style="width:30%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Meira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 </div>
 
 ###
