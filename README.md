@@ -18,7 +18,13 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning Unit Testing for React and C# .NET Core<br><br>To know more about me, please check my<a href="https://www.linkedin.com/in/jonathan-meira-812a082b" target="_blank"> Linkedin Profile</a>.</p>
+<p align="left">
+  ✨ Creating bugs since 2008<br>
+  📚 I'm currently learning Unit Testing for React and C# .NET Core</p>
+
+<p align="left">
+  To know more about me, please check my<a href="https://www.linkedin.com/in/jonathan-meira-812a082b" target="_blank"> Linkedin Profile</a>.
+</p>
 
 ###
 
