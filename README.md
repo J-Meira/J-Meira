@@ -26,7 +26,7 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Meira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" width="250" align="right" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Meira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&order=2" width="250" align="right" alt="languages graph"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
