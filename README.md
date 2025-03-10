@@ -20,7 +20,8 @@
 
 <p align="left">
   ✨ Creating bugs since 2008<br>
-  📚 I'm currently learning Unit & Integrations Testing for C# .NET Core and Vue.js</p>
+  📚 I'm currently learning Unit & Integration Testing for C# .NET Core and Vue.js
+</p>
 
 <p align="left">
   To know more about me, please check my<a href="https://www.linkedin.com/in/jonathan-meira-812a082b" target="_blank"> Linkedin Profile</a>.
@@ -81,7 +82,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
 </div>
-
+<p><br clear="both"></p>
 ###
 
 <h2 align="left">To contact me:</h2>
