@@ -82,8 +82,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
 </div>
+
 <p><br clear="both"></p>
-###
 
 <h2 align="left">To contact me:</h2>
 
