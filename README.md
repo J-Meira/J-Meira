@@ -20,7 +20,7 @@
 
 <p align="left">
   ✨ Creating bugs since 2008<br>
-  📚 I'm currently learning Unit Testing for React and C# .NET Core</p>
+  📚 I'm currently learning Unit & Integrations Testing for C# .NET Core and Vue.js</p>
 
 <p align="left">
   To know more about me, please check my<a href="https://www.linkedin.com/in/jonathan-meira-812a082b" target="_blank"> Linkedin Profile</a>.
